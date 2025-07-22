@@ -13,7 +13,7 @@ const About = () => {
       <section className="bg-white p-6 rounded-xl shadow-md mb-6">
         <h2 className="text-2xl font-semibold mb-4 text-blue-600">About Me</h2>
         <p className="text-gray-700 leading-relaxed">
-          I'm a passionate web developer with 1.6 years of experience in the Web development. 
+          I'm a passionate web developer with 2 years of experience in the Web development. 
           I specialize in building responsive, dynamic, and user-friendly applications using React, Node.js, Express, and MongoDB.
           I enjoy solving problems and continuously learning new technologies.
         </p>
