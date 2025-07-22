@@ -55,7 +55,7 @@ const About = () => {
         <h2 className="text-2xl font-semibold mb-4 text-red-600">Contact</h2>
         <p className="text-gray-700">
           📧 Email: suyambuakila2000@gmail.com <br />
-          💼 GitHub: <a href="https://github.com/Dev-Akils" className="text-blue-500 underline">Dev-Akils</a> <br />
+          💼 GitHub: <a href="https://github.com/Dev-Akils" className="text-blue-500 underline">https://github.com/Dev-Akils/</a> <br />
           🔗 LinkedIn: <a href="#" className="text-blue-500 underline">https://www.linkedin.com/in/akila-s-02a8ab244</a>
         </p>
       </section>
